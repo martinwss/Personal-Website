@@ -22,28 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: Research Assistant
+    company: Differential Psychology, Personality Psychology, and Psychological Diagnostics (Prof. Dr. Johannes Hewig)
     company_url: ''
-    company_logo: org-gc
-    location: California
+    company_logo: # uw.jpg
+    location: University of Würzburg | Department of Psychology
+    date_start: '2017-10-01'
+    date_end: '2020-12-31'
+    
+
+  - title: PostDoctoral Research Associate
+    company: Translational Social Neuroscience (Prof. Dr. Grit Hein)
+    company_url: ''
+    company_logo: #org-x
+    location: University Hospital Würzburg | Psychiatry
     date_start: '2021-01-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
-
-  - title: Professor of Semiconductor Physics
-    company: University X
-    company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    
 
 design:
   columns: '2'
